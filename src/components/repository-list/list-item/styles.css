@@ -1,0 +1,91 @@
+.list-item-container {
+    padding: 0 0 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e8e8e8;
+    position: relative;
+  }
+  .list-item-container .author-img::before,
+  .list-item-container .author-img::after {
+    clear: both;
+    display: block;
+  }
+  .list-item-container .author-img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-right: 1em ;
+    border: 1px solid #e8e8e8;
+  }
+  
+  .list-item-container .repo-header h3 {
+    margin-bottom: 4px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  .list-item-container .repo-header h3 .text-normal {
+    font-weight: 400;
+  }
+  
+  .list-item-container .repo-footer {
+    font-size: 13px;
+  }
+  
+  .list-item-container .repo-header p {
+    margin-bottom: 0;
+  }
+  
+  .list-item-container .repo-header, .list-item-container .repo-body {
+    margin-bottom: 15px;
+  }
+  
+  .list-item-container .repo-body p {
+    margin-bottom: 0;
+    display: block;
+  }
+  
+  .list-item-container .repo-footer svg {
+    position: relative;
+    top: -1px;
+    margin-right: 6px;
+    fill: #6c757d;
+  }
+  
+  .list-item-container .repo-meta a {
+    color: currentColor;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .list-container .list-item-container:last-child {
+    margin-bottom: 0;
+    border-bottom: 0;
+    padding-bottom: 0;
+  }
+  
+  .list-item-container .repo-footer a {
+    color: #6c757d;
+    text-decoration: none;
+  }
+  
+  .list-item-container .author-link {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+  }
+  .list-item-container .label-info {
+    background-color: #5bc0de;
+  }
+  .list-item-container .Item-label {
+    display: inline;
+    padding: .2em .4em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+  }
+  
