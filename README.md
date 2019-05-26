@@ -38,4 +38,4 @@ React Router is a powerful routing library built on top of React that helps you 
 
 ### moment
 
-A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates. Documentation.
+A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
