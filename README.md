@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-The node_modules were added to the .gitignore. 
+### `notice`  node_modules were added to the .gitignore
 
 Please, first of all execute 
 
