@@ -4,6 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+The node_modules were added to the .gitignore. 
+
+Please, first of all execute 
+
+### `npm install`
+
+Then, 
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
